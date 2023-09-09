@@ -36,5 +36,5 @@ Cluster</p>
 <h2>Advanced Steps:</h2>
 <p>To improve the clustering process with DBSCAN and MeanShift, we have a couple of options. One approach is to use image data from the scanned images, as both algorithms are well-suited for computer vision applications. Alternatively, we can employ grid search and hyperparameter tuning to find the best parameters for these algorithms. However, it's important to note that tuning parameters, especially for the MeanShift model, can be time-consuming.</p>
 
-<p>For more insights on this dataset, please click <a href=''>here</a></p>
+<p>For more insights on this dataset, please click <a href='https://github.com/Izuchukwu234/Market-Segmentation-In-Insurance/blob/main/Market%20Segmentation%20Analysis.pdf'>here</a></p>
 </div>
